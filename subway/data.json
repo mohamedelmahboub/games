@@ -2,7 +2,7 @@
     "config" : [
         {
             "int_interval" : 1,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
@@ -84,7 +84,7 @@
         {
             "name" : "OM NOM RUN",
             "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomRunTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/table-tennis-world-tour/v370/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=8c8e5fc6-7e38-47ab-96eb-150276e79ef8&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=139&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://freehtml5games.org/games/tomb-runner/index.html",
             "cat" : "Play",
             "orientation" : "1"
         }
