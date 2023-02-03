@@ -2,8 +2,8 @@
     "config" : [
         {
             "int_interval" : 5,
-            "activate_ads" : "true",
-            "custom_banner" : "true",
+            "activate_ads" : "false",
+            "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -82,7 +82,7 @@
     
     "games" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
+            "name" : "Choo train horror charles",
             "ico" : "https://play-lh.googleusercontent.com/BbzmiwdKygfuJ1kkI5cVGqP9uCdEj9sB-INoKD12zI0cSfq0vpmWGFl1GXFtCp_Z6YI=w480-h960-rw",
             "link" : "https://m.igroutka.ru/ni/265/igra-ujasniy-brosok-noja-2/",
             "cat" : "Overall",
