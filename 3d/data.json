@@ -20,7 +20,7 @@
             "yandex_int" : "R-M-DEMO-interstitial",
             "yandex_rewarded" : "R-M-DEMO-rewarded-client-side-rtb",
 
-            "fan_ban": "",
+            "fan_ban": "fan",
             "fan_native": "",
             "fan_int": "",
             "fan_rewarded": "",
@@ -41,7 +41,7 @@
             "orientation": "landscape",
             "game_link": "https://html5.gamedistribution.com/337302b23b5943d8bcfc501d81d50cdb/",
 
-            "update_app_activate": "true",
+            "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
