@@ -2,7 +2,7 @@
     "ads" : [
         {
             "demo" : "false",
-            "activate_ads" : "true",
+            "activate_ads" : "off",
             "activate_inter" : "off",
             "activate_banner" : "off",
             
