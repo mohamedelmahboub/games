@@ -2,11 +2,11 @@
     "ads" : [
         {
             "demo" : "false",
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_inter" : "off",
             "activate_banner" : "off",
             
-            "network" : "admob",
+            "network" : "fan",
 
             "one_signal" : "000000000",
             
@@ -20,10 +20,10 @@
             "yandex_int" : "",
             "yandex_rewarded" : "",
 
-            "fan_ban": "",
-            "fan_native": "",
-            "fan_int": "",
-            "fan_rewarded": "",
+            "fan_ban": "983007989790186_983008699790115",
+            "fan_native": "983007989790186_983008836456768",
+            "fan_int": "983007989790186_983008806456771",
+            "fan_rewarded": "983007989790186_983009619790023",
 
             "iron_key": "",
             "iron_ban" : "",
