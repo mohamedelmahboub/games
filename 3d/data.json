@@ -35,7 +35,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 100,
-            "ad_int_interval" : 1,
+            "ad_int_interval" : 2,
             "score_rating_reward" : 5,
 
             "orientation": "landscape",
