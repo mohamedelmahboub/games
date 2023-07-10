@@ -3,8 +3,8 @@
         {
             "demo" : "true",
             "activate_ads" : "true",
-            "activate_inter" : "on",
-            "activate_banner" : "on",
+            "activate_inter" : "off",
+            "activate_banner" : "off",
             
             "network" : "fan",
 
@@ -20,10 +20,10 @@
             "yandex_int" : "",
             "yandex_rewarded" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
-            "fan_rewarded": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
+            "fan_rewarded": "",
 
             "iron_key": "",
             "iron_ban" : "",
