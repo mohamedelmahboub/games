@@ -3,7 +3,7 @@
         {
             "demo" : "false",
             "activate_ads" : "true",
-            "activate_inter" : "off",
+            "activate_inter" : "on",
             "activate_banner" : "off",
             
             "network" : "fan",
@@ -34,7 +34,7 @@
             "ad_link" : "https://goo.by/SXnW6",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 100,
+            "ad_game_minutes" : 1,
             "ad_int_interval" : 2,
             "score_rating_reward" : 5,
 
