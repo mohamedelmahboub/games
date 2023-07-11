@@ -1,12 +1,12 @@
 {
     "ads" : [
         {
-            "demo" : "true",
+            "demo" : "false",
             "activate_ads" : "true",
-            "activate_inter" : "off",
-            "activate_banner" : "off",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
             
-            "network" : "admob",
+            "network" : "fan",
 
             "one_signal" : "000000000",
             
@@ -20,10 +20,10 @@
             "yandex_int" : "R-M-DEMO-interstitial",
             "yandex_rewarded" : "R-M-DEMO-rewarded-client-side-rtb",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
-            "fan_rewarded": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "137603352691922_137605702691687",
+            "fan_native": "137603352691922_137606429358281",
+            "fan_int": "137603352691922_137605746025016",
+            "fan_rewarded": "137603352691922_137606496024941",
 
             "iron_key": "168e4ab9d",
             "iron_ban" : "DefaultBanner",
@@ -34,8 +34,8 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 100,
-            "ad_int_interval" : 5,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 2,
             "score_rating_reward" : 5,
 
             "orientation": "landscape",
