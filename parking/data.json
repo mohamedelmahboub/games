@@ -1,10 +1,10 @@
 {
     "ads" : [
         {
-            "demo" : "false",
+            "demo" : "true",
             "activate_ads" : "true",
-            "activate_inter" : "on",
-            "activate_banner" : "on",
+            "activate_inter" : "off",
+            "activate_banner" : "off",
             
             "network" : "fan",
 
@@ -20,10 +20,10 @@
             "yandex_int" : "R-M-DEMO-interstitial",
             "yandex_rewarded" : "R-M-DEMO-rewarded-client-side-rtb",
 
-            "fan_ban": "137603352691922_137605702691687",
-            "fan_native": "137603352691922_137606429358281",
-            "fan_int": "137603352691922_137605746025016",
-            "fan_rewarded": "137603352691922_137606496024941",
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
+            "fan_rewarded": "",
 
             "iron_key": "168e4ab9d",
             "iron_ban" : "DefaultBanner",
