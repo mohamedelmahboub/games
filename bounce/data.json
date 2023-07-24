@@ -3,8 +3,8 @@
         {
             "demo" : "false",
             "activate_ads" : "true",
-            "activate_inter" : "off",
-            "activate_banner" : "off",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
             
             "network" : "fan",
 
@@ -20,10 +20,11 @@
             "yandex_int" : "",
             "yandex_rewarded" : "",
 
-            "fan_ban": "983007989790186_983008699790115",
-            "fan_native": "983007989790186_983008836456768",
-            "fan_int": "983007989790186_983008806456771",
-            "fan_rewarded": "983007989790186_983008873123431",
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_rewarded": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
 
             "iron_key": "",
             "iron_ban" : "",
@@ -39,7 +40,7 @@
             "score_rating_reward" : 5,
 
             "orientation": "landscape",
-            "game_link": "https://html5.gamedistribution.com/337302b23b5943d8bcfc501d81d50cdb/",
+            "game_link": "https://html5.gamemonetize.co/zyvb37e49g4s76k2tryc6cs146pr2u8x/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
