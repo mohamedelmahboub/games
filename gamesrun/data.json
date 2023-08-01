@@ -3,10 +3,10 @@
         {
             "demo" : "true",
             "activate_ads" : "true",
-            "activate_inter" : "off",
-            "activate_banner" : "off",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
             
-            "network" : "admob",
+            "network" : "fan",
 
             "one_signal" : "000000000",
             
@@ -20,10 +20,10 @@
             "yandex_int" : "",
             "yandex_rewarded" : "",
 
-            "fan_ban": "",
-            "fan_native": "",
-            "fan_int": "",
-            "fan_rewarded": "",
+            "fan_ban": "324779486572891_324780129906160",
+            "fan_native": "324779486572891_324780439906129",
+            "fan_int": "324779486572891_324780249906148",
+            "fan_rewarded": "324779486572891_324780503239456",
 
             "iron_key": "",
             "iron_ban" : "",
