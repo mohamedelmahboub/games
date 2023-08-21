@@ -1,12 +1,12 @@
 {
     "ads" : [
         {
-            "demo" : "false",
+            "demo" : "true",
             "activate_ads" : "true",
             "activate_inter" : "on",
             "activate_banner" : "on",
             
-            "network" : "is",
+            "network" : "fan",
 
             "one_signal" : "a02e4b65-21e7-4282-a341-bfafff9d670e",
             
