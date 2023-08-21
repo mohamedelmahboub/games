@@ -6,7 +6,7 @@
             "activate_inter" : "on",
             "activate_banner" : "on",
             
-            "network" : "fan",
+            "network" : "is",
 
             "one_signal" : "a02e4b65-21e7-4282-a341-bfafff9d670e",
             
@@ -25,7 +25,7 @@
             "fan_int": "983007989790186_983008806456771",
             "fan_rewarded": "983007989790186_983008873123431",
 
-            "iron_key": "",
+            "iron_key": "1b5003665",
             "iron_ban" : "",
             "iron_int" : "",
             "iron_rewarded" : "",
