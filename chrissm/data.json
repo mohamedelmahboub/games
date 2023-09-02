@@ -1,0 +1,80 @@
+{
+    "ads" : [
+        {
+            "demo" : "true",
+            "activate_ads" : "true",
+            "activate_inter" : "off",
+            "activate_banner" : "off",
+            
+            "network" : "fan",
+
+            "one_signal" : "a02e4b65-21e7-4282-a341-bfafff9d670e",
+            
+            "admob_ban": "",
+            "admob_native" : "",
+            "admob_int": "",
+            "admob_rewarded": "",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            "yandex_rewarded" : "",
+
+            "fan_ban": "983007989790186_983008699790115",
+            "fan_native": "983007989790186_983008836456768",
+            "fan_int": "983007989790186_983008806456771",
+            "fan_rewarded": "983007989790186_983008873123431",
+
+            "iron_key": "1b5003665",
+            "iron_ban" : "",
+            "iron_int" : "",
+            "iron_rewarded" : "",
+
+            "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
+            "ad_link" : "https://play.google.com/store/apps/details?id=com.skibidcall.faketoillet",
+
+            "ad_score_amount" : 1,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 1,
+            "score_rating_reward" : 5,
+
+            "orientation": "landscape",
+            "game_link": "https://bizogames.com/full/grimace-shake-puzzle/",
+
+            "update_app_activate": "false",
+            "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "more" : [
+        {
+            "name" : "Parking Jam: Car Parking Games",
+            "ico" : "https://play-lh.googleusercontent.com/mF9HPPIomBZbsjW_npjkbyi1ztyIUBjl1k4-64DenL-5La4Br8HwXt5Gz4LwE5HF4Q=s96",
+            "link" : "https://play.google.com/store/apps/details?id=com.policebike.carsimulator.tapnation"
+        },{
+            "name" : "HD Movies 2023 - Watch Movies",
+            "ico" : "https://lh3.googleusercontent.com/olyXoek_miHn5-FEUjCANNkcmcjwPZRh7bOtgMYimrn1PGgn_2aV7doRcJEUkXby8kiWNj4KgrFeQTqVeUr-4_3YadYH52tivW_u",
+            "link" : "https://play.google.com/store/apps/details?id=com.cinemovies.lastonecine"
+        }
+
+    ],
+
+    "slider" : [
+        {
+            "image" : "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
+    ]
+}
